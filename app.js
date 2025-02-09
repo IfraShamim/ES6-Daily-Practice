@@ -10,3 +10,9 @@ const multiply = (num1,num2 = 2) => {
 console.log(multiply(2,3));
 console.log(multiply(2));
 
+// Problem 2
+
+const hello = () => {
+    
+}
+
