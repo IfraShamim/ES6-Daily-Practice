@@ -16,3 +16,9 @@ const hello = () => {
     
 }
 
+// Problem 2
+
+const hello = () => {
+    
+}
+
