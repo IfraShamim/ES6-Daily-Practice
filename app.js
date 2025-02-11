@@ -12,7 +12,13 @@ console.log(multiply(2));
 
 // Problem 2
 
-const hello = () => {
+const hello1 = () => {
+    
+}
+
+// Problem 2
+
+const hello2 = () => {
     
 }
 
